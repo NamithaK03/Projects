@@ -31,35 +31,3 @@ SecureComment is a comprehensive system that leverages deep learning techniques 
     <td>Vattigunta Subhash Kovid</td>
   </tr>  
 </table>
-
-## Project Milestones
-
-<table>
-  <tr>
-    <th>Milestone review</th>
-    <th>Review date</th>
-    <th>Panel members</th>
-    <th>Project status</th>
-    <!-- <th>Deliverables</th> -->
-  </tr>
-  <tr>
-    <td>1. Literature study</td>
-    <td>dd-mm-yyyy</td>
-    <td>Dr. X<br>Ms. Y<br>Mr. Z</td>
-    <td>Survey complete<br>Presentation done<br>Progress: 10%</td>
-    <!--  <td>
-      <a href="survey.pdf">Survey</a><br>
-      <a href="slides-1.pdf">Presentation Slides</a>
-    </td> -->
-  </tr>
-  <tr>
-    <td>2. Problem definition</td>
-    <td>dd-mm-yyyy</td>
-    <td>Dr. X<br>Ms. Y<br>Mr. Z</td>
-    <td>Proposal submitted<br>Presentation done<br>Progress: 20%</td>
-    <!-- <td>
-      <a href="proposal.pdf">Proposal</a><br>
-      <a href="slides-2.pdf">Presentation Slides</a>
-    </td> -->
-  </tr>  
-</table>
