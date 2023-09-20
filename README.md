@@ -31,6 +31,7 @@ SecureComment is a comprehensive system that leverages deep learning techniques 
     <td>Vattigunta Subhash Kovid</td>
   </tr>  
 </table>
+
 ## Project Milestones
 
 <table>
